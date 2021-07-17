@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Save>
+  <Scene id="0" Name="SampleScene" />
+  <PlayerInfo x="-0,3677018" y="0,04" z="1,058891" Health="1000" Intellect="0" Strength="0" Charizma="0" Sleight="0" />
+  <Quests>
+    <Quest id0="0" />
+  </Quests>
+</Save>

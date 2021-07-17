@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<description>
+  <node id="0" text="нужна для чего-то" Armor="true" Weapon="true" Name="Empty" ItemType="0"/>
+  <!-- начинаешь писать со второго id потому что первый он не сильно хочет захватывать я хз почему но лучше пока что ничего не менять :)-->
+  <node id="1" text="Чел ты" Charizma="5" Armor="true" Weapon="false" IDEquip="1" Intellect="5" Name="Da" ItemType="true" Strength =" 0"/>
+  <node id="2" text="когда уже" Name="frozenGrenade" Armor="true" Weapon="false" NeedIntellect="5" NeedCharizma="0" NeedSleight="0" NeedStrength="0" Reload="3" IDEquip="4" ItemType="true"/>
+  <node id="3" text="заработаешь" Name="Dash" IDEquip="5" NeedIntellect="1" Armor="true" Weapon="false" Reload="3" ItemType="true"/>
+  <node id="4" text="реально" IDEquip="5" Name="bestSpeed" Reload="11" Armor ="true" Weapon="false" NeedIntellect="5" ItemType="true"/>
+  <node id="5" text="да" IDEquip="4" Name="SuperMeleeAttack" Reload="2" Armor="false" Weapon="true" NeedIntellect="5" ItemType="false"/>
+</description>
